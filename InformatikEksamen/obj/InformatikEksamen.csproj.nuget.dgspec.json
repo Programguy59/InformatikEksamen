@@ -1,31 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\magnu\\Documents\\School\\H2 Gym\\Infomatik\\InformatikEksamen\\InformatikEksamen\\InformatikEksamen.csproj": {}
+    "C:\\Users\\laur8\\Source\\Repos\\InformatikEksamen\\InformatikEksamen\\InformatikEksamen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\magnu\\Documents\\School\\H2 Gym\\Infomatik\\InformatikEksamen\\InformatikEksamen\\InformatikEksamen.csproj": {
+    "C:\\Users\\laur8\\Source\\Repos\\InformatikEksamen\\InformatikEksamen\\InformatikEksamen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\magnu\\Documents\\School\\H2 Gym\\Infomatik\\InformatikEksamen\\InformatikEksamen\\InformatikEksamen.csproj",
+        "projectUniqueName": "C:\\Users\\laur8\\Source\\Repos\\InformatikEksamen\\InformatikEksamen\\InformatikEksamen.csproj",
         "projectName": "InformatikEksamen",
-        "projectPath": "C:\\Users\\magnu\\Documents\\School\\H2 Gym\\Infomatik\\InformatikEksamen\\InformatikEksamen\\InformatikEksamen.csproj",
-        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\magnu\\Documents\\School\\H2 Gym\\Infomatik\\InformatikEksamen\\InformatikEksamen\\obj\\",
+        "projectPath": "C:\\Users\\laur8\\Source\\Repos\\InformatikEksamen\\InformatikEksamen\\InformatikEksamen.csproj",
+        "packagesPath": "C:\\Users\\laur8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laur8\\Source\\Repos\\InformatikEksamen\\InformatikEksamen\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\magnu\\NuGet.Config",
-          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\laur8\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,12 +39,6 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "dependencies": {
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
