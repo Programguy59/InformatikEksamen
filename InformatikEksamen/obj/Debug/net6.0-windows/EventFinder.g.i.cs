@@ -53,7 +53,7 @@ namespace InformatikEksamen {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/InformatikEksamen;V1.0.0.0;component/eventfinder.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/InformatikEksamen;component/eventfinder.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\EventFinder.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

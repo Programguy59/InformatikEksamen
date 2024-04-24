@@ -22,3 +22,14 @@ C:\Users\magnu\Documents\School\H2 Gym\Infomatik\InformatikEksamen\InformatikEks
 C:\Users\magnu\Documents\School\H2 Gym\Infomatik\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\ref\InformatikEksamen.dll
 C:\Users\magnu\Documents\School\H2 Gym\Infomatik\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\OpretEvent.g.cs
 C:\Users\magnu\Documents\School\H2 Gym\Infomatik\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\OpretEvent.baml
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\EventFinder.g.cs
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\HomePage.g.cs
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\LogInScreen.g.cs
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\OpretEvent.g.cs
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\InformatikEksamen_MarkupCompile.cache
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\InformatikEksamen_MarkupCompile.lref
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\InformatikEksamen.dll
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\refint\InformatikEksamen.dll
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\InformatikEksamen.pdb

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\magnu\Documents\School\H2 Gym\Infomatik\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\obj\Debug\net6.0-windows\
 InformatikEksamen
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\magnu\Documents\School\H2 Gym\Infomatik\InformatikEksamen\InformatikEksamen\App.xaml
-31713480067
+C:\Users\laur8\Source\Repos\InformatikEksamen\InformatikEksamen\App.xaml
+51794273110
 
-5-1422741572
+15217022374
 194183970531
-HomePage.xaml;MainWindow.xaml;OpretEvent.xaml;
+EventFinder.xaml;HomePage.xaml;LogInScreen.xaml;MainWindow.xaml;OpretEvent.xaml;
 
-False
+True
 
