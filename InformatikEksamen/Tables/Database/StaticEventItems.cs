@@ -1,9 +1,9 @@
-﻿using Eksamen.Tables;
+﻿using informatikEksamen.Tables;
 using InfomatikEksamen.Tables;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Eksamen.Tables.Database;
+namespace informatikEksamen.Tables.Database;
 
 public static partial class Database
 {
